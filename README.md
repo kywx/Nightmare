@@ -5,7 +5,7 @@ A 2D story platformer game created in collaboration with Yuling Zhou (yulingz6@u
 In order to save a loved one, you stole a precious medicine from the Mayor. It turned out to be for his fatally ill daughter, and now the entire town was talking about the tragedy. Today, you are woken up by a knock at your door. Instantly knowing that they’ve found out, you just have to run for your life or face the consequences of what you’ve done.
 
 ## About
-This was for a game design class in 2023. These are the Unity3D engine files.
+This was for the class GDIM 31 (Introduction to Programming for Games) in 2023. In the git repo are the Unity3D engine files.
 
 ## Playing the Game
 If you want to play the game, you can download it [here](https://drive.google.com/drive/folders/1KvmJiTcH4jJefC1kIFFZjrY0Q-762TTG?usp=sharing). Unzip the file and find the .exe file to run.
