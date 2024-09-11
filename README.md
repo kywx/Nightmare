@@ -6,3 +6,12 @@ In order to save a loved one, you stole a precious medicine from the Mayor. It t
 
 ## About
 This was for a game design class in 2023. These are the Unity3D engine files.
+
+## Playing the Game
+If you want to play the game, you can download it [here](https://drive.google.com/drive/folders/1KvmJiTcH4jJefC1kIFFZjrY0Q-762TTG?usp=sharing). Unzip the file and find the .exe file to run.
+
+OR
+
+Download the git repo files. Unzip it. Open it on Unity3D. Wait 5 years. Go to the toolbar and select File, then click 'Build and Run'.
+
+The game files are huge. The game itself is hard. It's like a rage bait game. Good luck.
