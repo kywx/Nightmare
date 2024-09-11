@@ -12,6 +12,6 @@ If you want to play the game, you can download it [here](https://drive.google.co
 
 OR
 
-Download the git repo files. Unzip it. Open it on Unity3D. Wait 5 years. Go to the toolbar and select File, then click 'Build and Run'.
+Download the git repo files. Unzip it. Open it on Unity3D in editor version 2022.3.13f1. Wait 5 years. Go to the toolbar and select File, then click 'Build and Run'.
 
-The game files are huge. The game itself is hard. It's like a rage bait game. Good luck.
+The game files are huge. The game is hard. It's like a rage bait game. Good luck.
